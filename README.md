@@ -1,6 +1,6 @@
 # Welcome to my Github Repo
 
-- Currently Learning Data-structures coz im from Electronics domain and AI engineering Interviews intro rounds where based on Datastructures. 
+- I am Pravin Kumar a self-taught coder. I am a Machine Learning Engineer. My focus currently is on Learning cpp to write new ops for tensorflow. My domain intrests are Search Engines , Recommendation Engines , Video Compression , Transformer based NN .   
 
 ## Topics that i am working on currently : 
  
