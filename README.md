@@ -8,6 +8,7 @@
 - Training and Inference using C++
 - Refreshing C++ concepts coz i feel rusty 
 - Porting Machine Learning & Deep Learning Algorithms to Mobile APP
+- Flutter , React Native and Swift Programming projects
 - Implementing tensorflow functions and API from scratch. Writing Blogs. 
 
 Do follow me if my work is intresting and usefull to you . 
